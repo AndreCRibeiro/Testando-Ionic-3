@@ -1,0 +1,8 @@
+{
+  "name": "PapaFilas",
+  "app_id": "12579567",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
